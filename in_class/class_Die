@@ -1,0 +1,14 @@
+class Die:
+	def __init__(self, nsides):
+		self.nsides = nsides
+
+	def __str__(self):
+	print(self.nsides)
+	return ""
+def main():
+	print("running main in die")
+	d = Die(20)
+	print(d)
+
+if __name__==name"__main__":
+	main()

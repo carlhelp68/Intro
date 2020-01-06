@@ -1,0 +1,14 @@
+num = int(input("Enter your number here:")
+sum = int(sum)
+n = int(n)
+
+while num != i
+	sum = num + sum
+	n += 1
+	num = int(input("Enter your number here:")
+print(sum/n)
+	
+	
+	
+
+	
